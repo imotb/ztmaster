@@ -12,7 +12,7 @@ Designed for system administrators and DevOps enthusiasts, this script automates
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 - **🌐 Zero-UI Stack Deployment:** Fully automated installation of the official Zero-UI container and its Zerotier controller.
 - **🔒 Automatic SSL:** Integrated Traefik with Let's Encrypt for automatic HTTPS on all your domains.
