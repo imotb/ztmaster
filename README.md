@@ -1,4 +1,4 @@
-# 🌑 Zero-UI & Moon Server Stack Installer
+# 🌖 Zero-UI & Moon Server Stack Installer
 Self-hosted Zerotier controller + beautiful Web-UI + optional Moon Server relay in < 5 min.
 
 [![Docker](https://img.shields.io/badge/Docker-20.10+-2496ED?logo=docker)](https://www.docker.com/) [![Traefik](https://img.shields.io/badge/Reverse%20Proxy-Traefik-24a1c1?logo=traefikproxy)](https://traefik.io/) [![SSL](https://img.shields.io/badge/SSL-LetsEncrypt-003A70?logo=lets-encrypt)](https://letsencrypt.org/) [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
