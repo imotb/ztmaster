@@ -119,6 +119,7 @@ Quickly restart all Docker containers defined in the `/opt/zero-ui-stack/docker-
 - **Backup:** Backup the `/opt/zero-ui-stack` directory and all Docker volumes.
 
 <img width="850" height="506" alt="Image" src="https://github.com/user-attachments/assets/474566b4-240d-4c48-88fe-5a2d5f6f2671" />
+
 ---
 
 ## ⚠️ Important Notes & Security
