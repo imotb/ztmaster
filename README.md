@@ -5,6 +5,9 @@ Self-hosted Zerotier controller + beautiful Web-UI + optional Moon Server relay 
 
 ---
 
+<img width="576" height="596" alt="Image" src="https://github.com/user-attachments/assets/25e363de-b952-458b-8c61-082397957cc5" />
+
+
 ## 📦 About
 
 A powerful, all-in-one bash script to effortlessly deploy a Zero-UI User Portal (for managing Zerotier networks) alongside a Traefik reverse proxy and an optional monitoring stack, or to configure a Zerotier Moon server for improved latency and reliability.
@@ -21,6 +24,7 @@ Designed for system administrators and DevOps enthusiasts, this script automates
 - **🔐 Secure by Default:** Generates strong, random passwords for all web interfaces and securely extracts the Zerotier controller token.
 - **🎨 Rich User Interface:** Beautiful ANSI-colored output with spinners and status indicators for a clear installation experience.
 - **🤝 Docker-Powered:** Everything runs in isolated Docker containers for easy management and cleanup.
+<img width="678" height="648" alt="Image" src="https://github.com/user-attachments/assets/724ce9e8-4566-42a4-94ec-f5875bdd5f27" />
 
 ---
 
@@ -114,6 +118,7 @@ Quickly restart all Docker containers defined in the `/opt/zero-ui-stack/docker-
 - **Update Containers:** `docker compose pull && docker compose up -d`
 - **Backup:** Backup the `/opt/zero-ui-stack` directory and all Docker volumes.
 
+<img width="850" height="506" alt="Image" src="https://github.com/user-attachments/assets/474566b4-240d-4c48-88fe-5a2d5f6f2671" />
 ---
 
 ## ⚠️ Important Notes & Security
